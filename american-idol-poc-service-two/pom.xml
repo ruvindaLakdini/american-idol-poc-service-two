@@ -39,8 +39,8 @@
 					<cloudHubDeployment>
 						<uri>https://anypoint.mulesoft.com</uri>
 						<muleVersion>4.4.0</muleVersion>
-						<username>nilan1984</username>
-						<password>Nilan@1234</password>
+						<username>ruvinda123</username>
+						<password>Ruvinda@123</password>
 						<applicationName>american-idol-poc-service-two</applicationName>
 						<environment>Sandbox</environment>
 						<workers>1</workers>
